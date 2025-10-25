@@ -4,7 +4,7 @@ Este repositório contém um projeto de currículo em página única, desenvolvi
 
 **Objetivo:** Consolidar os conhecimentos adquiridos na graduação em Desenvolvimento Web por meio da prática, com foco em HTML, CSS e responsividade.
 
-**Link do projeto no GitHub:**  
-[https://github.com/JENIFFER-B4DU/single-page-cv](https://jeniffer-b4du.github.io/single-page-cv/cv.html)
+**Visualize o projeto **: https://jeniffer-b4du.github.io/single-page-cv/cv.html
+
 
 Todas as informações contidas neste currículo são fictícias e utilizadas apenas para fins de aprendizado. 
