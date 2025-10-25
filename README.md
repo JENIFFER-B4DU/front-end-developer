@@ -1,8 +1,10 @@
-# front-end-developer
-Repositório criado para reunir projetos do roadmap de Front-End do site roadmap.sh.. Estou consolidando os conhecimentos da faculdade com prática contínua, como parte da minha jornada rumo ao desenvolvimento Full Stack.
-
 # Projeto: Currículo em Página Única
-Este projeto foi desenvolvido como parte do roadmap de Front-End do [roadmap.sh](https://roadmap.sh/frontend).
 
-Projeto hospedado no GitHub:  
-https://github.com/JENIFFER-B4DU/front-end-developer/tree/main/Frontend-Projects/single-page-cv
+Este repositório contém um projeto de currículo em página única, desenvolvido como parte do roadmap de Front-End do [roadmap.sh](https://roadmap.sh/frontend).
+
+**Objetivo:** Consolidar os conhecimentos adquiridos na graduação em Desenvolvimento Web por meio da prática, com foco em HTML, CSS e responsividade.
+
+**Link do projeto no GitHub:**  
+https://github.com/JENIFFER-B4DU/single-page-cv
+
+Todas as informações contidas neste currículo são fictícias e utilizadas apenas para fins de aprendizado.
