@@ -6,5 +6,6 @@ Este repositório contém um projeto de currículo em página única, desenvolvi
 
 Repositório do projeto: https://github.com/JENIFFER-B4DU/single-page-cv  
 Página do projeto: https://jeniffer-b4du.github.io/single-page-cv/cv.html
+Projeto no roadmap.sh: https://roadmap.sh/projects/single-page-cv
 
 Todas as informações contidas neste currículo são fictícias e utilizadas apenas para fins de aprendizado.
